@@ -1,0 +1,121 @@
+{
+  "Lion": {
+    "name": "Lion",
+    "species": "Mammal",
+    "image": "assets/images/animals/lion.svg",
+    "sound": "assets/sounds/lion.mp3"
+  },
+  "Monkey": {
+    "name": "Monkey",
+    "species": "Placental Mammals",
+    "image": "assets/images/animals/monkey.svg",
+    "sound": "assets/sounds/birds.mp3"
+  },
+  "Flamingo": {
+    "name": "Flamingo",
+    "species": "Bird",
+    "image": "assets/images/animals/flamingo.svg",
+    "sound": "falta"
+  },
+  "Dog": {
+    "name": "Dog",
+    "species": "Mammal",
+    "image": "assets/images/animals/dog.svg",
+    "sound": "falta"
+  },
+  "Bull": {
+    "name": "Bull",
+    "species": "Mammal",
+    "image": "assets/images/animals/bull.svg",
+    "sound": "falta"
+  },
+  "Butterfly": {
+    "name": "Butterfly",
+    "species": "Insect",
+    "image": "assets/images/animals/butterfly.svg",
+    "sound": "falta"
+  },
+  "Penguin": {
+    "name": "Penguin",
+    "species": "Bird",
+    "image": "assets/images/animals/penguin.svg",
+    "sound": "falta"
+  },
+  "Toucan": {
+    "name": "Toucan",
+    "species": "Bird",
+    "image": "assets/images/animals/toucan.svg",
+    "sound": "falta"
+  },
+  "Animals" : {
+    "singular":"Animal",
+    "plural":"Animals"
+  },
+  "Colors" : {
+    "singular":"Color",
+    "plural":"Colors"
+  },
+  "Numbers" : {
+    "singular":"Number",
+    "plural":"Numbers"
+  },
+  "Play": "Play me!",
+  "Learn": "Learn with Nima!",
+  "One" : {
+    "name": "One",
+    "sound": "falta"
+  },
+  "Two" : {
+    "name": "Two",
+    "sound": "falta"
+  },
+  "Three" : {
+    "name": "Three",
+    "sound": "falta"
+  },
+  "Four" : {
+    "name": "Four",
+    "sound": "falta"
+  },
+  "Five" : {
+    "name": "Five",
+    "sound": "falta"
+  },
+  "Six" : {
+    "name": "Six",
+    "sound": "falta"
+  },
+  "Seven" : {
+    "name": "Seven",
+    "sound": "falta"
+  },
+  "Eight" : {
+    "name": "Eight",
+    "sound": "falta"
+  },
+  "Blue": {
+    "name": "Blue",
+    "type": "Primary",
+    "sound": "falta"
+  },
+  "Red": {
+    "name": "Red",
+    "type": "Primary",
+    "sound": "falta"
+  },
+  "Yellow": {
+    "name": "Yellow",
+    "type": "Primary",
+    "sound": "falta"
+  },
+  "Purple": {
+    "name": "Purple",
+    "type": "Secondary",
+    "sound": "falta"
+  },
+  "Green": {
+    "name": "Green",
+    "type": "Secondary",
+    "sound": "falta"
+  }
+}

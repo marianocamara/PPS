@@ -1,0 +1,113 @@
+{
+  "Lion": {
+    "name": "Leon",
+    "species": "Mamífero",
+    "sound": "assets/sounds/lion.mp3"
+  },
+  "Monkey": {
+    "name": "Mono",
+    "species": "Mamífero",
+    "sound": "assets/sounds/birds.mp3"
+  },
+  "Flamingo": {
+    "name": "Flamenco",
+    "species": "Ave",
+    "sound": "falta"
+  },
+  "Dog": {
+    "name": "Perro",
+    "species": "Mamífero",
+    "sound": "falta"
+  },
+  "Bull": {
+    "name": "Toro",
+    "species": "Mamífero",
+    "sound": "falta"
+  },
+  "Butterfly": {
+    "name": "Mariposa",
+    "species": "Insecto",
+    "sound": "falta"
+  },
+  "Penguin": {
+    "name": "Pingüino",
+    "species": "Ave",
+    "sound": "falta"
+  },
+  "Toucan": {
+    "name": "Tucán",
+    "species": "Ave",
+    "sound": "falta"
+  },
+  "Animals" : {
+    "singular":"Animal",
+    "plural":"Animales"
+  },
+  "Colors" : {
+    "singular":"Color",
+    "plural":"Colores"
+  },
+  "Numbers" : {
+    "singular":"Número",
+    "plural":"Números"
+  },
+  "Play": "¡Escuchame!",
+  "Learn": "¡Aprendé con Nima!",
+  "One" : {
+    "name": "Uno",
+    "sound": "falta"
+  },
+  "Two" : {
+    "name": "Dos",
+    "sound": "falta"
+  },
+  "Three" : {
+    "name": "Tres",
+    "sound": "falta"
+  },
+  "Four" : {
+    "name": "Cuatro",
+    "sound": "falta"
+  },
+  "Five" : {
+    "name": "Cinco",
+    "sound": "falta"
+  },
+  "Six" : {
+    "name": "Seis",
+    "sound": "falta"
+  },
+  "Seven" : {
+    "name": "Siete",
+    "sound": "falta"
+  },
+  "Eight" : {
+    "name": "Ocho",
+    "sound": "falta"
+  },
+  "Blue": {
+    "name": "Azul",
+    "type": "Primario",
+    "sound": "falta"
+  },
+  "Red": {
+    "name": "Rojo",
+    "type": "Primario",
+    "sound": "falta"
+  },
+  "Yellow": {
+    "name": "Amarillo",
+    "type": "Primary",
+    "sound": "falta"
+  },
+  "Purple": {
+    "name": "Violeta",
+    "type": "Secundario",
+    "sound": "falta"
+  },
+  "Green": {
+    "name": "Verde",
+    "type": "Secundario",
+    "sound": "falta"
+  }
+}
