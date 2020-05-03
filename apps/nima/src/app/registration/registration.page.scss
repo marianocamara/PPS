@@ -18,21 +18,30 @@ ion-label#ion-input-0-lbl, ion-label#ion-input-1-lbl {
     color: #5d5d5d!important;
 }
 
+.scroll-content {
+    padding-bottom: 0 !important;
+}
+
 .enter{
     --background: #ff94b4;
     height: 4rem;
     --border-radius: 15px;
+    float: right!important;
+    margin-right: 15px;
+    margin-bottom: -30px;
     --box-shadow: none;
-    position: absolute;
-    right: 3%;
-    bottom: 7%;
-    z-index: 99;
-}
-
-.enter ion-icon{
-    font-size: 3rem;
-    color: white;
-}
+  }
+  
+  .enter ion-icon{
+      font-size: 3rem;
+      color: white;
+  }
+  
+  ion-footer ion-toolbar{
+    --background: #f3f3f3;
+    padding-top: 20px;
+    z-index: -1;
+  }
 
 .bottom-color{
     background: #ececec;
